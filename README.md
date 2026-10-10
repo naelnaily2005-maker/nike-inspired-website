@@ -9,3 +9,4 @@ A personal front-end practice project inspired by Nike's visual style, focused o
 Project status: Early-stage learning project, with planned improvements to responsiveness, accessibility, and interactive features as my front-end skills develop.
 
 Independent educational project; not affiliated with or endorsed by Nike.
+
