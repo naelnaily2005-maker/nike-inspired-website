@@ -13,3 +13,5 @@ The website includes four main sections: Products, featuring men's and women's s
 Future Improvements: This is an ongoing learning project, and I plan to improve its design, responsiveness, accessibility, and functionality as I continue developing my front-end skills.
 
 Independent educational project inspired by Nike's visual style; not affiliated with or endorsed by Nike.
+
+<img width="1666" height="727" alt="image" src="https://github.com/user-attachments/assets/1e18f20e-822a-4770-a273-1664f73edfbc" />
