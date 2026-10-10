@@ -14,4 +14,3 @@ Future Improvements: This is an ongoing learning project, and I plan to improve 
 
 Independent educational project inspired by Nike's visual style; not affiliated with or endorsed by Nike.
 
-<img width="1666" height="727" alt="image" src="https://github.com/user-attachments/assets/1e18f20e-822a-4770-a273-1664f73edfbc" />
